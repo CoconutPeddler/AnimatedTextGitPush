@@ -1,4 +1,4 @@
-console.log("Colors");
+// console.log("Colors");
 
 // Function below generates the three rgb(0,0,0) needed for the rgb color scale. rgb is a coloring system that has three inputs. 0-255
 // rgb(255,255,255)            //white
